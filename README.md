@@ -45,7 +45,7 @@ superstore-sales-analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/superstore_dashboard.pdf)
+![Dashboard](dashboard_preview.png)
 
 ### KPI Summary
 | Metric | Value |
